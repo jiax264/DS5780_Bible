@@ -1,4 +1,4 @@
-# Title
+# Automated Text Simplification with AI: Fine-Tuning a Small Pretrained Transformer Model and In-Context Learning with a Large Language Model 
 
 ## Data Preprocessing
 - **Data_Clean.ipynb → bible_cleaned_data.csv**: Collects and organizes chapters from King James Version (KJV) and Bible in Basic English (BBE) into a dataframe, with basic text cleaning to remove leading characters and newline inconsistencies.
