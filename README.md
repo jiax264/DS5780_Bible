@@ -1,7 +1,7 @@
 # Automated Text Simplification with AI: Fine-Tuning a Small Pretrained Transformer Model and In-Context Learning with a Large Language Model 
 
-## Data Sources
-The primary data sources for this analysis are two versions of the Bible: the King James Version (KJV) and the Bible in Basic English (BBE) found in data/bibles
+## Data Source
+The primary data source for this analysis are two versions of the Bible: the King James Version (KJV) and the Bible in Basic English (BBE) found in data/bibles (Originally from https://github.com/keithecarlson/StyleTransferBibleData/tree/master/Data/Bibles)
 
 - **King James Version (KJV)**: A classic English translation of the Bible, originally published in 1611. Known for its archaic language and complex structure, it is revered for its historical significance and literary style.
 - **Bible in Basic English (BBE)**: A simpler version of the Bible, translated by Professor S. H. Hooke in 1941. This version uses a vocabulary of 1,000 basic English words, making it more accessible to those with limited education or for whom English is a second language.
